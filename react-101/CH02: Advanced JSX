@@ -1,1 +1,2 @@
-
+1. className instead of class (as this is reserved keyword in js)
+2. closing / is must in self closing tag.
